@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjith H M</h1>
-<h5 align="left">Looking for job in Automation and Manual testing.Total 3 years experience in IT industry. Experience in Software testing with over 2 years of experience a demonstrated history of working in the ERP, Financials & SCM cloud as Automation and Manual Testing. Experience with Java, Selenium, SQL, Jira, Requirement Documents, Test Strategy, creating test plans, writing and executing test cases. Hands-on experience in Oracle Cloud ERP, b2b and Apex.ting.</h4>
+<h5 align="left">Working as QA Engineer II in Stonex groups inc..Total 3 years experience in IT industry. Experience in Software testing with over 2 years of experience a demonstrated history of working in the ERP, Financials & SCM cloud as Automation and Manual Testing. Experience with Java, Selenium, SQL, Jira, Requirement Documents, Test Strategy, creating test plans, writing and executing test cases. Hands-on experience in Oracle Cloud ERP, b2b and Apex.ting.</h4>
 
 - 🌱 My skills and Knowledge **Manual testing, Automation testing, Java, Selenium, SQL, TestNG, JIRA, SDLC, STLC, etc.,**
 
